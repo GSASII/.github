@@ -2,7 +2,7 @@ GSAS-II is a unique and comprehensive open source Python project for determinati
 
 To learn about GSAS-II [click here](https://advancedphotonsource.github.io/GSAS-II-tutorials/)
 
-This GSASII organization was originally created for testing out git integration, but those repositories have been deleted. The repositories intended for public use are: 
+This GSASII organization was originally created for testing out git integration, but those repositories have been deleted. The organization is being retained as it makes for a useful web page address (https://GSASII.github.io). The repositories intended for public use related to GSAS-II are: 
 + https://github.com/AdvancedPhotonSource/GSAS-II
   + (main code repository)
 + https://github.com/AdvancedPhotonSource/GSAS-II-tutorials
