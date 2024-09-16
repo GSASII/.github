@@ -11,6 +11,3 @@ This GSASII organization was originally created for testing out git integration,
   + (location of installation kits & build scripts)
 
 GSAS-II also exists on an subversion repository at Argonne, but this will be deactivated soon. 
-
-* At present the home page for the software is here: https://subversion.xray.aps.anl.gov/trac/pyGSAS
-* The main svn repository for the source code is: https://subversion.xray.aps.anl.gov/pyGSAS, but can be browsed here: https://subversion.xray.aps.anl.gov/trac/pyGSAS/browser
